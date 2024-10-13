@@ -1,0 +1,12 @@
+MATERIALES
+Libro;Algebra de Baldor;9786075502090;Baldor;0;1941;pa pasar algebra1
+Libro;El Extranjero;9789569978654;Albert Camus;0;1942;a
+Libro;To Kill a Mockingbird;9780446310789;Harper Lee;0;1960;a
+Libro;Pride and Prejudice;9780141439518;Jane Austen;0;1813;a
+Libro;Lord of the Flies;9780399501487;William Golding;0;1954;a
+Libro;1984;9788499890944;George Orwell;0;1949;a
+Revista;Analysis and Comparison of Robotics 3D Simulators;978-1-7281-5434-3;IEEE;0;0;October 2019
+Revista;The evolution of molluscs;10.1111/brv.12439;Andreas Wanninger;0;94;June 2018
+USUARIOS
+Itzel;0;0
+Maximo;1;0
