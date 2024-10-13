@@ -17,7 +17,11 @@ Este programa es un sistema que permite gestionar los materiales, usuarios y pre
 
 ## Cómo ejecutar
 
-1. Compilar el programa ```g++ -o main .\MaterialBibliografico.cpp .\Libro.cpp .\Revista.cpp .\Usuario.cpp .\Sistema.cpp .\main.cpp```
+1. Compilar el programa 
+```
+g++ -o main .\MaterialBibliografico.cpp .\Libro.cpp .\Revista.cpp .\Usuario.cpp .\Sistema.cpp .\main.cpp
+```
+
 2. Ejecutar `main.exe`
 
 
