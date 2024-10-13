@@ -7,7 +7,7 @@ Integrantes:
 
 Este programa es un sistema que permite gestionar los materiales, usuarios y prestamos de una biblioteca. Los materiales pueden ser de tipo Libro o Revista.
 
-## Funciones
+### Funciones
 
 * Agregar materiales (libros y revistas) al sistema
 * Buscar material por título o autor
@@ -27,11 +27,18 @@ Al ejecutar el programa se crea un objeto de Sistema y luego se cargan los datos
 Al cerrar el programa los datos se guardarán en este mismo save, pero tambien se pueden guardar y cargar manualmente en "ManualSave.txt"
 
 ## Estructura de save files
-`MATERIALES\n`
-`tipo;nombre;ISBN;autor;estadoPrestamo;parametro1;parametro2\n`
-`...\n`
-`USUARIOS\n`
-`Nombre;ID;contadorPrestados\n`
-`ISBN (si hay prestados)\n`
+
+`MATERIALES`
+
+`tipo;nombre;ISBN;autor;estadoPrestamo;parametro1;parametro2`
+
+`...`
+
+`USUARIOS`
+
+`Nombre;ID;contadorPrestados`
+
+`ISBN (si hay prestados)`
+
 `...`
  
