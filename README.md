@@ -27,18 +27,18 @@ Al ejecutar el programa se crea un objeto de Sistema y luego se cargan los datos
 Al cerrar el programa los datos se guardarán en este mismo save, pero tambien se pueden guardar y cargar manualmente en "ManualSave.txt"
 
 ## Estructura de save files
+<blockquote>
+MATERIALES
 
-`MATERIALES`
+tipo;nombre;ISBN;autor;estadoPrestamo;parametro1;parametro2
 
-`tipo;nombre;ISBN;autor;estadoPrestamo;parametro1;parametro2`
+...
 
-`...`
+USUARIO
 
-`USUARIOS`
+Nombre;ID;contadorPrestados
 
-`Nombre;ID;contadorPrestados`
+ISBN (si hay prestados)
 
-`ISBN (si hay prestados)`
-
-`...`
- 
+...
+</blockquote>
